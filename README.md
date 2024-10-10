@@ -5,7 +5,7 @@ Future app Developer
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... SiriO
+- 🔭 I’m currently working on ... CITY-SHOP
 - 🌱 I’m currently learning ...Courses
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
